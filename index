@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width height=device-hight; initial-scale=1">
+
+<title>ENGENE</title>
+
+<style>
+body {
+width: 1300px;
+height: 1500px;
+margin-left: auto;
+margin-right: auto;
+background-color: White;
+}
+
+ul {
+list-style-type: none;
+overflow: auto;
+background-color: Silver;
+margin: 0;
+padding: 0;
+}
+
+li {
+float: left;
+}
+
+li a {
+display: block;
+color: black;
+padding: 20px;
+text-align: center;
+text-decoration: none;
+font-size: 20px;
+font-family: "Courier", slab serif;
+}
+
+li a:hover {
+background-color: Khaki;
+}
+
+#header {
+margin: 0px;
+text-align: left;
+padding-top: 12px;
+padding-bottom: 130px;
+padding-right: 100px;
+padding-left: 100px;
+color: white;
+font-size: 350%;
+font-family: "Courier New", slab serif;
+background-image: url("http://s8.favim.com/orig/150630/1d-anime-cartoon-galaxy-Favim.com-2876768.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
+
+h2 {
+font-size: 150%;
+}
+
+#content-main {
+width: 760px;
+height: 1050px;
+float: left;
+margin: 20px;
+padding: 20px;
+background-color: PaleGoldenRod;
+}
+
+#content-side {
+width: 400px;
+padding: 15px;
+margin: 10px;
+float: right;
+}
+
+#second-content-side {
+width: 400px;
+padding: 15px;
+margin: 10px;
+float: right;
+}
+
+#footer {
+width: 300px;
+height: 50px;
+padding-top: 5px;
+padding-bottom: 10px;
+margin: 10px;
+float: left;
+color: black;
+}
+</style>
+</head>
+ 
+<body>
+
+<div id="header">
+<h1>E&#127775;GENE</h1>
+</div>
+
+<div id="nav">
+<ul>
+<li><a href="#">HOME</a><li>
+<li><a href="#">DEER</a></li>
+<li><a href="#">EAGLE</a></li>
+<li><a href="#">DOG</a></li>
+<li><a href="#">PENGUIN</a></li>
+<li><a href="#">FOX</a></li>
+<li><a href="#">CAT</a></li>
+<li><a href="#">CHEETAH</a></li>
+<li><a href="#">ABOUT</a></li>
+</ul>
+</div>
+
+<div id="content">
+<div id="content-main">
+<h1>ENHYPEN to hold in-person fan meeting in Seoul</h1>
+<img src="https://mb.com.ph/wp-content/uploads/2021/11/42290.jpeg" width="750" height="500" alt="Enhypen">
+<h2>Belift Lab, ENHYPEN’s agency, announced that the 2021 ENHYPEN [EN-Connect: Companion] will be held on Nov. 19 and 20.</h2>
+<img src="https://kpoplat.com/wp-content/uploads/2020/09/ENHYPEN-ok.png" width="750" height="200" alt="Enhypen Win">
+<h1> ENHYPEN Receives YouTube Gold Creator Award Even Before Their Debut</h1>
+</div>
+</div>
+
+<div id="second-content-side">
+<img style="border: 5px solid PaleGoldenRod; padding: 10px" src="https://media3.giphy.com/media/XyVS4Mvfi1e9pQy8N8/giphy.gif" width="380" height="150" alt="gif">
+</div>
+
+<div id="content-side">
+<img src="https://scontent.fmnl17-1.fna.fbcdn.net/v/t1.15752-9/252779198_2822174564752945_84952494036703487_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=ae9488&_nc_eui2=AeHxQPpcQe5qilIM_vxvNJV834GkON7ic6bfgaQ43uJzprQWMXzbiaG8FTUE1d5p549xvf6FVlKpg2WwfvILUTZN&_nc_ohc=EbcVdymhpHgAX_FoE_l&_nc_ht=scontent.fmnl17-1.fna&oh=4eaaaba72da706965f82f2c2f91d398f&oe=61A69D94" width="400" height="120" alt="Heeseung">
+<img src="https://scontent.fmnl17-4.fna.fbcdn.net/v/t1.15752-9/251468363_571211990830924_2779307142506729836_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=ae9488&_nc_eui2=AeEeonSK0MsiMhM6R0UMsPYzHOUl2BE69aAc5SXYETr1oFQSbfujVbWJXIg9ujtMRHoAOxtMvibrDvRDVQIwhjm3&_nc_ohc=m3gH7MfNssEAX-q_TK9&_nc_oc=AQl7rWtcvGJW_Wuzp4dlT2BGUynSUm5MBhHN9z_9PJiTSfQUnENBcnBrpdNWCJYW2ew&_nc_ht=scontent.fmnl17-4.fna&oh=84b7603024fc80ae2264313363f18ccf&oe=61A75AB9" width="400" height="120" alt="Jay">
+<img src="https://scontent.fmnl17-3.fna.fbcdn.net/v/t1.15752-9/252991583_291059979402524_2426294150323038790_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=ae9488&_nc_eui2=AeESmibXj8SX57wih4hJADoknb74ZzKk_r6dvvhnMqT-vmPAmate0xxpH_rtXESqIdbEaF8i5J06lt4zZXIcvqSH&_nc_ohc=PRVIq0lhB_UAX-IAzks&_nc_ht=scontent.fmnl17-3.fna&oh=0532f0bf7789ea987a5c53acb32151ae&oe=61A6E7A4" width="400" height="120" alt="Jake">
+<img src="https://scontent.fmnl17-2.fna.fbcdn.net/v/t1.15752-9/252341193_2975637535984298_8254788486859426367_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=ae9488&_nc_eui2=AeH8szPqRK9p_Wp-xZIbKYn4I7BN2PSH8JEjsE3Y9IfwkQaVBtJNdFwg8wS-s-NX9ru865VvosSPb72gB_h_R2PC&_nc_ohc=LXA2UgbV5PEAX9zZVcJ&_nc_ht=scontent.fmnl17-2.fna&oh=c14bd6c02df1f6bfee8e5622266dafa3&oe=61A93212" width="400" height="120" alt="Park Sunghoon"> 
+<img src="https://64.media.tumblr.com/3a986b8b8abfe9173ebb7f60695313bc/72a9477e54b891e5-1c/s400x600/d57e6b55775a0c8d7edeed9254f4f24046c13d3f.jpg" width="400" height="120" alt="Kim Sunoo">
+<img src="https://64.media.tumblr.com/2f61d029e30e59374fb277ef8a08dd95/72a9477e54b891e5-9c/s1280x1920/ad8c3b160ee231ccd514421356464e7b140cd81a.jpg" width="400" height="120" alt="Yang Jungwon">
+<img src="https://scontent.fmnl17-4.fna.fbcdn.net/v/t1.15752-9/251429856_248065287381189_8140122438813783932_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=ae9488&_nc_eui2=AeEj4PVAlhh1jPB2bJ937seavMHYlGKIc5a8wdiUYohzloTeMz9XDCV1QhlFAAoX-3SHTYoVvnXhVD8_-JISZyA6&_nc_ohc=sMed7231GuMAX9bYmNT&tn=2T0fbxspPHMEV5s0&_nc_ht=scontent.fmnl17-4.fna&oh=fb2316736562e353587e2b79af526605&oe=61A8A693" width="400" height="120" alt="Nishimura Riki">
+</div>
+
+<div id="footer">
+<p>Copyright &copy;E&#127775;GENE </p>
+</div>
+ 
+</body>
+</html>
